@@ -12,12 +12,12 @@ This repository documents my journey of learning Python for bioinformatics.
 - Python Fundamentals
 - NumPy
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib & Seaborn
+- File Handling
 
 - # Repository Structure
 - 01_Python_Fundamentals.ipynb
 - 02_NumPy.ipynb
 - 03_Pandas.ipynb
-- 04_Matplotlib.ipynb
-- 05_Seaborn.ipynb
+- 04_Matplotlib_&_Seaborn.ipynb
+- 05_File_Handling.ipynb
