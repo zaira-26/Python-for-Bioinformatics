@@ -14,7 +14,6 @@ This repository documents my journey of learning Python for bioinformatics.
 - Pandas
 - Matplotlib
 - Seaborn
-- Biopython
 
 - # Repository Structure
 - 01_Python_Fundamentals.ipynb
@@ -22,4 +21,3 @@ This repository documents my journey of learning Python for bioinformatics.
 - 03_Pandas.ipynb
 - 04_Matplotlib.ipynb
 - 05_Seaborn.ipynb
-- 06_Biopython/
